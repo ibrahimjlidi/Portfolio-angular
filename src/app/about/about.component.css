@@ -1,0 +1,39 @@
+/* about.component.css */
+.about {
+    background-color: #f1f1f1;
+    padding: 50px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    text-align: left;
+    margin-left: 40px;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
